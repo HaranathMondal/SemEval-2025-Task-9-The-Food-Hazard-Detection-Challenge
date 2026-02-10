@@ -164,9 +164,11 @@ Relevant roles:
 **Haranath Mondal**
 Data Analyst | Aspiring Data Scientist | NLP & ML Research Enthusiast
 
-🔗 GitHub: https://github.com/haranathx
-🔗 LinkedIn: https://www.linkedin.com/in/haranathmondal/
-🔗 Email: haranathx@gmail.com
+- **Final leaderboard:** https://food-hazard-detection-semeval-2025.github.io/
+- **GitHub:** https://github.com/haranathx  
+- **LinkedIn:** https://www.linkedin.com/in/haranathmondal/  
+- **Email:** haranathx@gmail.com
+- **Portfolio:** https://haranathx.vercel.app
 
 ---
 
